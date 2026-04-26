@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,4 +23,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
