@@ -13,6 +13,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
