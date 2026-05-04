@@ -26,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0647-palindromic-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0647-palindromic-substrings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Stack
@@ -107,6 +109,7 @@
 | [0005-longest-palindromic-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
