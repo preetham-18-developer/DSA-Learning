@@ -22,6 +22,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
@@ -29,6 +30,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -102,6 +104,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0680-valid-palindrome-ii/) | Easy |
