@@ -50,6 +50,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -104,6 +105,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
