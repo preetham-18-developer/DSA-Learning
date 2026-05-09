@@ -83,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0180-consecutive-numbers/) | Medium |
+| [0550-game-play-analysis-iv](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0610-triangle-judgement/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1174-immediate-food-delivery-ii/) | Medium |
