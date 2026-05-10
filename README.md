@@ -86,6 +86,7 @@
 | [0550-game-play-analysis-iv](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0610-triangle-judgement/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1211-queries-quality-and-percentage/) | Easy |
