@@ -19,6 +19,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1314-matrix-block-sum/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
@@ -83,6 +84,7 @@
 | [0724-find-pivot-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1314-matrix-block-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1314-matrix-block-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
