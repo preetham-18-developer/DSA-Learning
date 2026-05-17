@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -47,10 +48,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +116,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0567-permutation-in-string/) | Medium |
