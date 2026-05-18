@@ -100,6 +100,7 @@
 | [0180-consecutive-numbers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1045-customers-who-bought-all-products/) | Medium |
