@@ -106,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0180-consecutive-numbers/) | Medium |
+| [0196-delete-duplicate-emails](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0585-investments-in-2016](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0585-investments-in-2016/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
