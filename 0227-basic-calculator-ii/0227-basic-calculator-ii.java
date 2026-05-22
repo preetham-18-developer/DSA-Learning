@@ -2,7 +2,7 @@ class Solution {
     public int calculate(String s) {
         Stack<Integer> stack = new Stack<>();
         int num = 0;
-        char sign = '+';
+        char ope = '+';
         for (int i = 0; i < s.length(); i++) {
         char ch = s.charAt(i);
             if (Character.isDigit(ch)) {
@@ -10,23 +10,23 @@ class Solution {
             }
             if ((!Character.isDigit(ch) && ch != ' ') || i == s.length() - 1) {
 
-                if (sign == '+') {
+                if (ope == '+') {
                     stack.push(num);
                 }
 
-                else if (sign == '-') {
+                else if (ope == '-') {
                     stack.push(-num);
                 }
 
-                else if (sign == '*') {
+                else if (ope == '*') {
                     stack.push(stack.pop() * num);
                 }
 
-                else if (sign == '/') {
+                else if (ope == '/') {
                     stack.push(stack.pop() / num);
                 }
 
-                sign = ch;
+                ope = ch;
                 num = 0;
             }
         }
