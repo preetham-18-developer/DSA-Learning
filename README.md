@@ -42,6 +42,7 @@
 | [0567-permutation-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@
 | [0503-next-greater-element-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@
 | [0567-permutation-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
@@ -217,6 +220,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
