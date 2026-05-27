@@ -69,6 +69,7 @@
 | [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1544-make-the-string-great/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@
 | [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1544-make-the-string-great](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1544-make-the-string-great/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
