@@ -136,6 +136,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1341-movie-rating/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1527-patients-with-a-condition/) | Easy |
