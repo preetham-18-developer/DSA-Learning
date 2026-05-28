@@ -70,6 +70,7 @@
 | [0901-online-stock-span](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1544-make-the-string-great](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1544-make-the-string-great/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
