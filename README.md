@@ -137,6 +137,7 @@
 | [1193-monthly-transactions-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1321-restaurant-growth](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1341-movie-rating/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1484-group-sold-products-by-the-date/) | Easy |
