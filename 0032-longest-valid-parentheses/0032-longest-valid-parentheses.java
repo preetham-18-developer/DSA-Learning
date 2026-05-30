@@ -3,13 +3,15 @@ class Solution {
 
         Stack<Integer> stack = new Stack<>();
 
+        char[] chars = s.toCharArray();
+
         int ans = 0;
 
         stack.push(-1);
 
         for(int i = 0; i < s.length(); i++) {
 
-            char a = s.charAt(i);
+            char a = chars[i];
 
             if(a == '(') {
                 stack.push(i);
