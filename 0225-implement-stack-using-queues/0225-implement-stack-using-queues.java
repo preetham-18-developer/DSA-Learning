@@ -30,7 +30,7 @@ class MyStack {
                 q2.offer(q1.poll());
             }
             int ans = q1.peek();
-                q2.offer(q1.poll());
+            q2.offer(q1.poll());
 
             Queue<Integer> temp = q1;
             q1 = q2;
