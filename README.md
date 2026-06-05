@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -38,6 +39,7 @@
 | [0005-longest-palindromic-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
+| [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0567-permutation-in-string/) | Medium |
@@ -70,6 +72,7 @@
 | [0227-basic-calculator-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0394-decode-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
@@ -92,6 +95,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -238,6 +242,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0402-remove-k-digits/) | Medium |
 | [0605-can-place-flowers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0680-valid-palindrome-ii/) | Easy |
