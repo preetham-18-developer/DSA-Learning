@@ -82,6 +82,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -229,6 +230,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1544-make-the-string-great/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
