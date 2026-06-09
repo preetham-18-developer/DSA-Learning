@@ -186,6 +186,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
@@ -279,6 +280,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0394-decode-string/) | Medium |
 ## Number Theory
