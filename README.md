@@ -19,6 +19,7 @@
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0605-can-place-flowers/) | Easy |
+| [0704-binary-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0735-asteroid-collision/) | Medium |
@@ -111,6 +112,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0704-binary-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
