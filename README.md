@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
@@ -58,6 +59,7 @@
 | [0062-unique-paths](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0647-palindromic-substrings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
