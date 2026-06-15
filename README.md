@@ -35,6 +35,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@
 | [0225-implement-stack-using-queues](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +295,7 @@
 | [0258-add-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -301,6 +305,7 @@
 | [0394-decode-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
