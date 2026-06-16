@@ -208,6 +208,7 @@
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -306,6 +307,7 @@
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
@@ -335,4 +337,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
