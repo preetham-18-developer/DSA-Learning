@@ -214,6 +214,7 @@
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@
 | [0844-backspace-string-compare](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +314,7 @@
 | [0486-predict-the-winner](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,4 +341,5 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 <!---LeetCode Topics End-->
