@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0040-combination-sum-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
@@ -189,6 +190,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
