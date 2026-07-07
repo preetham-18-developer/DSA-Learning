@@ -367,4 +367,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0002-add-two-numbers/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
