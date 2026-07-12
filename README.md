@@ -320,6 +320,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
@@ -372,6 +373,7 @@
 | [0002-add-two-numbers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
