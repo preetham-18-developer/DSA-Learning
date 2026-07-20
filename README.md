@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -352,6 +353,7 @@
 | [0022-generate-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0216-combination-sum-iii/) | Medium |
@@ -362,6 +364,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
