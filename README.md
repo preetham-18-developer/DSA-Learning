@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0260-single-number-iii/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0486-predict-the-winner/) | Medium |
@@ -366,6 +367,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Depth-First Search
