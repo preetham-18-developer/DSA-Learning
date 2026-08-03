@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
+| [0057-insert-interval](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
