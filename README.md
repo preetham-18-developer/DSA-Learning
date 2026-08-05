@@ -198,6 +198,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
@@ -213,6 +214,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
@@ -251,6 +253,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
