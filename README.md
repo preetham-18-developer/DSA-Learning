@@ -30,6 +30,7 @@
 | [0503-next-greater-element-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0575-distribute-candies](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -209,6 +210,7 @@
 | [0523-continuous-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0567-permutation-in-string/) | Medium |
+| [0575-distribute-candies](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0575-distribute-candies/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Math
