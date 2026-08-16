@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0135-candy](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0198-house-robber/) | Medium |
@@ -293,6 +294,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0402-remove-k-digits/) | Medium |
