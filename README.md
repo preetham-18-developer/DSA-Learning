@@ -24,6 +24,7 @@
 | [0216-combination-sum-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0260-single-number-iii/) | Medium |
+| [0274-h-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0274-h-index/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -306,6 +307,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0274-h-index/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Matrix
@@ -399,4 +401,8 @@
 | [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0328-odd-even-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
