@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0274-h-index/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -60,6 +61,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -137,6 +139,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -391,6 +394,7 @@
 | [0137-single-number-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Depth-First Search
@@ -410,4 +414,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0274-h-index/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
