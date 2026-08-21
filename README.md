@@ -29,6 +29,7 @@
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0456-132-pattern](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
@@ -108,6 +109,7 @@
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0394-decode-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0735-asteroid-collision/) | Medium |
@@ -130,6 +132,7 @@
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0739-daily-temperatures/) | Medium |
@@ -143,6 +146,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0456-132-pattern](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -426,4 +430,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
