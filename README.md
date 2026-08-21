@@ -61,6 +61,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
@@ -96,6 +97,7 @@
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
@@ -351,6 +353,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0326-power-of-three/) | Easy |
@@ -409,6 +412,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
+| [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
