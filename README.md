@@ -23,6 +23,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0274-h-index/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -144,6 +145,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0456-132-pattern](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0456-132-pattern/) | Medium |
@@ -258,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -328,6 +331,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1314-matrix-block-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
