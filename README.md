@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0090-subsets-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -392,6 +393,7 @@
 | [0051-n-queens](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0216-combination-sum-iii/) | Medium |
 ## Game Theory
@@ -402,6 +404,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0260-single-number-iii/) | Medium |
