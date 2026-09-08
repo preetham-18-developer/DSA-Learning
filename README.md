@@ -99,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -284,6 +285,7 @@
 | [0022-generate-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
