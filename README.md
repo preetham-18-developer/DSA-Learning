@@ -57,6 +57,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1544-make-the-string-great/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@
 | [0901-online-stock-span](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
