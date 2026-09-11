@@ -63,6 +63,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
@@ -290,6 +291,7 @@
 | [0013-roman-to-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
@@ -450,4 +452,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0456-132-pattern/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
