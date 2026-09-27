@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0090-subsets-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -237,6 +238,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -478,4 +480,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
