@@ -237,6 +237,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
@@ -304,6 +305,7 @@
 | [0010-regular-expression-matching](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -418,6 +420,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0051-n-queens/) | Hard |
