@@ -111,6 +111,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
@@ -450,6 +451,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,8 +502,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
