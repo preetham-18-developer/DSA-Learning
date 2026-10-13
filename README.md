@@ -314,6 +314,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0038-count-and-say/) | Medium |
 | [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
