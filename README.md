@@ -72,6 +72,7 @@
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
@@ -246,6 +247,7 @@
 | [0041-first-missing-positive](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -467,6 +469,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
