@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
@@ -244,6 +245,7 @@
 | [0013-roman-to-integer](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -369,6 +371,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0036-valid-sudoku/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1314-matrix-block-sum/) | Medium |
