@@ -71,6 +71,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -473,6 +474,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0328-odd-even-linked-list/) | Medium |
