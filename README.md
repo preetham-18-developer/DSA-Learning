@@ -273,6 +273,7 @@
 | [0029-divide-two-integers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -325,6 +326,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0038-count-and-say/) | Medium |
+| [0067-add-binary](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
@@ -394,6 +396,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0735-asteroid-collision/) | Medium |
@@ -454,6 +457,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0137-single-number-ii/) | Medium |
