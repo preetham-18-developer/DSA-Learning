@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -96,6 +97,7 @@
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -378,6 +380,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0036-valid-sudoku/) | Medium |
+| [0064-minimum-path-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1314-matrix-block-sum/) | Medium |
