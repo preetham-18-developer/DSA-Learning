@@ -94,6 +94,7 @@
 | [0022-generate-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0062-unique-paths/) | Medium |
@@ -328,6 +329,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0038-count-and-say/) | Medium |
+| [0044-wildcard-matching](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
@@ -360,6 +362,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -416,6 +419,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
