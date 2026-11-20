@@ -100,6 +100,7 @@
 | [0062-unique-paths](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0198-house-robber/) | Medium |
@@ -332,6 +333,7 @@
 | [0044-wildcard-matching](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0125-valid-palindrome/) | Easy |
