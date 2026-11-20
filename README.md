@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0135-candy/) | Hard |
@@ -101,6 +102,7 @@
 | [0064-minimum-path-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0198-house-robber/) | Medium |
@@ -118,6 +120,7 @@
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -157,6 +160,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0402-remove-k-digits/) | Medium |
@@ -387,6 +391,7 @@
 | [0036-valid-sudoku](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0036-valid-sudoku/) | Medium |
 | [0064-minimum-path-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1314-matrix-block-sum/) | Medium |
 ## Design
