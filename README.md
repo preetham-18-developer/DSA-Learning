@@ -107,6 +107,7 @@
 | [0152-maximum-product-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0486-predict-the-winner](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0647-palindromic-substrings/) | Medium |
@@ -290,6 +291,7 @@
 | [0227-basic-calculator-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
@@ -346,6 +348,7 @@
 | [0131-palindrome-partitioning](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -434,6 +437,7 @@
 | [0224-basic-calculator](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0326-power-of-three](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0394-decode-string/) | Medium |
@@ -449,6 +453,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -562,4 +567,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/preetham-18-developer/DSA-Learning/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 <!---LeetCode Topics End-->
