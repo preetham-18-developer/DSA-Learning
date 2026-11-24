@@ -62,6 +62,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1598-crawler-log-folder](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1598-crawler-log-folder/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1800-maximum-ascending-subarray-sum](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/preetham-18-developer/DSA-Learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/preetham-18-developer/DSA-Learning/tree/main/2104-sum-of-subarray-ranges/) | Medium |
